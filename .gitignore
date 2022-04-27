@@ -1,0 +1,12 @@
+__pycache__/
+
+bin/
+include/
+lib/
+
+fastapi-django-microservice/
+
+lib64
+share/
+
+pyvenv.cfg
